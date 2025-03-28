@@ -1,7 +1,7 @@
 ## Hi there, I am Awungia ✨
 
 # 💫 About Me:
-🔭I am a cloud based Sotware Engineering Enthusiast currently training at [Clemios](https://clemios.com/).<br>🌱 I'm currenty learning Rust,Java, Typescript.<br>🤔 I'm looking to colabrate on open source projects centered around ASIs.<br>⚡ Fun Fact: I read Novels, Comics and i also know a few chess moves 😄
+🔭I am a cloud based Sotware Engineering Enthusiast currently training at [Clemios](https://clemios.com/).<br>🌱 I'm currenty learning Rust,Java, Typescript and Usage of  cloud service providers.<br>🤔 I'm looking to colabrate on open source projects and I'm particularily interested in AI and ASI.<br>⚡ Fun Fact: I read Novels, Comics and i also know a few chess moves 😄
 
 - 📫 How to contact me Click any of the socials below
 
