@@ -1,5 +1,18 @@
-## Hi there, I am Awungia ✨
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/DIMFLIX/DIMFLIX/blob/main/assets/main.gif?raw=true" width="300" alt="DIMFLIX Preview"/>
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=400&height=80&lines=Greetings,+Wanderer!;I+am+Awungia;Software+Engineer;Cloud+Enthusiast;star+some+repos;on+your+way+out!" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</p>
 
+
+## Hi there, I am Awungia ✨
 # 💫 About Me:
 🔭I am a Cloud Based Sotware Engineering Enthusiast currently training at [Clemios](https://clemios.com/).<br>🌱 I'm currenty learning Rust,Java, Typescript and Usage of  cloud service providers.<br>🤔 I'm looking to colabrate on open source projects and I'm particularily interested in AI and ASI.<br>⚡ Fun Fact: I read Novels, Comics and i also know a few chess moves 😄
 
